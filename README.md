@@ -1,6 +1,8 @@
 # traverson-traversal
 
-Makes it easy to traverse RESTful APIs
+This web component makes it easy to traverse RESTful APIs.
+
+It is based on the amazing [Traverson library](https://github.com/basti1302/traverson).
 
 ## Install
 
@@ -27,5 +29,11 @@ Import Custom Element:
 Use it!:
 
 ```html
-<traverson-traversal></traverson-traversal>
+<traverson-traversal
+    from="http://example.org/api"
+    follow="['link_to', 'resource']"
+    lastResponse="{{document}}">
+</traverson-traversal>
+
+<p>{{document}}</p>
 ```
