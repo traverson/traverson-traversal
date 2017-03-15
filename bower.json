@@ -1,0 +1,20 @@
+{
+  "name": "traverson-traversal",
+  "version": "0.0.0",
+  "description": "Makes it easy to traverse RESTful APIs",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "traverson-traversal.html",
+  "ignore": [],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.6.0",
+    "traverson": "^6.0.1",
+    "traverson-hal": "^6.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  }
+}
