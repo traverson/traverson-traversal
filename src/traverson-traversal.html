@@ -1,0 +1,22 @@
+<link rel="import" href="../polymer/polymer.html">
+<script src="../../traverson/browser/dist/traverson.min.js"></script>
+<script src="../../traverson-hal/browser/dist/traverson-hal.min.js"></script>
+
+<!--
+Makes it easy to traverse RESTful APIs
+
+Example:
+```html
+<traverson-traversal
+    from="http://.example.org/api/"
+    follow="['link_to', 'resource']"
+    lastResponse="{{document}}">
+</traverson-traversal>
+
+<p>{{document}}</p>
+```
+
+@demo demo/index.html
+-->
+
+<script src="./traverson-traversal.js" inline></script>
