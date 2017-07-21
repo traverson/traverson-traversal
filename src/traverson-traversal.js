@@ -1,5 +1,7 @@
 'use strict';
 
+traverson.registerMediaType(TraversonJsonHalAdapter.mediaType, TraversonJsonHalAdapter);
+
 Polymer({
   is: 'traverson-traversal',
   hostAttributes: {

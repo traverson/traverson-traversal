@@ -1,7 +1,19 @@
 {
-  "name": "component-build-process",
-  "version": "1.0.0",
+  "name": "traverson-traversal",
+  "version": "0.0.1",
   "description": "build process for web components using Polymer",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "JSON",
+    "REST",
+    "API",
+    "HATEOAS",
+    "hypertext",
+    "hypermedia",
+    "HAL"
+  ],
+  "license": "MIT",
   "main": "gulpfile.js",
   "devDependencies": {
     "autoprefixer": "^6.3.7",
