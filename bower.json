@@ -1,6 +1,5 @@
 {
   "name": "traverson-traversal",
-  "version": "0.0.1",
   "description": "Makes it easy to traverse RESTful APIs",
   "keywords": [
     "web-component",
