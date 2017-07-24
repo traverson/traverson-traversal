@@ -1,5 +1,7 @@
 'use strict';
 
+/* global traverson:false, TraversonJsonHalAdapter:false */
+
 traverson.registerMediaType(TraversonJsonHalAdapter.mediaType, TraversonJsonHalAdapter);
 
 Polymer({
