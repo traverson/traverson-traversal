@@ -16,17 +16,17 @@
   "license": "MIT",
   "main": "gulpfile.js",
   "devDependencies": {
-    "autoprefixer": "^6.3.7",
+    "autoprefixer": "^9.0.0",
     "browser-sync": "^2.14.0",
-    "eslint-plugin-html": "^1.5.2",
+    "eslint-plugin-html": "^4.0.5",
     "gulp": "^3.9.1",
-    "gulp-eslint": "^3.0.1",
-    "gulp-htmlmin": "^2.0.0",
+    "gulp-eslint": "^5.0.0",
+    "gulp-htmlmin": "^4.0.0",
     "gulp-if": "^2.0.2",
-    "gulp-inline-source": "^2.1.0",
-    "gulp-postcss": "^6.1.1",
-    "gulp-process-inline": "^0.1.4",
-    "yargs": "^6.6.0",
+    "gulp-inline-source": "^3.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-process-inline": "^0.2.0",
+    "yargs": "^12.0.1",
     "gulp-html-prettify": "0.0.1"
   }
 }
