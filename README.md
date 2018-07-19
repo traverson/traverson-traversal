@@ -1,4 +1,4 @@
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/traverson/traverson-traversal)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/traverson/traverson-traversal) [![Greenkeeper badge](https://badges.greenkeeper.io/traverson/traverson-traversal.svg)](https://greenkeeper.io/)
 
 # &lt;traverson-traversal&gt;
 
